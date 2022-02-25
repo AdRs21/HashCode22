@@ -1,20 +1,24 @@
 # Google Hash Code 2022
-My final code after the Practice Round of Google Hash Code 2022. I was part of ToDo team, which finished 611. During the contest, the best result came from @Wattcle's code.
+My final code after the Practice Round of Google Hash Code 2022. Please take into accound that this code include randomness, and that the best results may have been found by slightly varying some parameters in the code (shuffling or not, changing some cutoff parameters,...).
+
+I was part of ToDo team, which finished 611. During the contest, the best result came from @Wattcle's code.
 
 | Input | Qualification Round | Practice Round |
 | --- | --- | --- |
-| A - An example | 33 | 33 |
+| A - An example | 33 | Same |
 | B - Better start small | 800974 | 971505 |
 | C - Collaboration | 154492 | 258365 |
 | D - Dense schedule | 173626 | 251751 |
-| E - Exceptional skills | 1531510 | TODO |
-| F - Find great mentors | 92247 | TODO |
-| Total | 2752882 | TODO |
-| Rank | 611st |  |
+| E - Exceptional skills | 1531510 | Same |
+| F - Find great mentors | 92247 | Same |
+| Total | 2752882 | 3105411 |
+| Rank | 611st | ~220s* |
+
+\* the rank we would have had if we had done as well in the Qualification Round.
 
 ## A - An example
 
-|<img width="447" alt="a_qr" src="https://user-images.githubusercontent.com/54591165/155728656-69e3bdf8-b18d-4e03-aa14-23a59f9f5420.png">|<img width="455" alt="a_pr" src="https://user-images.githubusercontent.com/54591165/155729764-0d004dc2-0fad-4d61-9636-f1bc707dd32c.png">|
+|<img width="447" alt="a_qr" src="https://user-images.githubusercontent.com/54591165/155728656-69e3bdf8-b18d-4e03-aa14-23a59f9f5420.png">|Same|
 | :-: | :-: |
 | Qualification Round | Practice Round |
 
@@ -39,12 +43,12 @@ My final code after the Practice Round of Google Hash Code 2022. I was part of T
 
 ## E - Exceptional skills
 
-|<img width="457" alt="e_qr" src="https://user-images.githubusercontent.com/54591165/155728668-2f1369a4-71f2-4ef9-996d-d58d1bf7ee7c.png">|TODO|
+|<img width="457" alt="e_qr" src="https://user-images.githubusercontent.com/54591165/155728668-2f1369a4-71f2-4ef9-996d-d58d1bf7ee7c.png">|Same|
 | :-: | :-: |
 | Qualification Round | Practice Round |
 
 ## F - Find great mentors
 
-|<img width="455" alt="f_qr" src="https://user-images.githubusercontent.com/54591165/155728670-418e177c-e805-4dda-a46b-ec6447fc7254.png">|TODO|
+|<img width="455" alt="f_qr" src="https://user-images.githubusercontent.com/54591165/155728670-418e177c-e805-4dda-a46b-ec6447fc7254.png">|Same|
 | :-: | :-: |
 | Qualification Round | Practice Round |
